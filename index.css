@@ -1,0 +1,184 @@
+.my-project {
+    padding: 8vw;
+}
+
+.header-container {
+    display: flex;
+}
+
+.header-text-container {
+    flex: 1;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.login-container {
+    flex: 1;
+    text-align: right;
+}
+
+.empty {
+    background-color: #FFFFFF;
+    flex: 1
+}
+
+.header-text-description {
+    font-size: 2.2vw;
+}
+
+.normal-button-header {
+    background-color: #4756DF;
+    color: white;
+    padding: 0.8vw 4vw 0.8vw 4vw;
+    border-color: #4756DF;
+    font-size: 1.5vw;
+    box-shadow: 0px 0.5px 0.5px 0.5px #4756DF;
+    border-radius: 0.4vw;
+}
+
+.button-container {
+    flex: 1;
+    text-align: center;
+}
+
+.sign-up-text {
+    flex: 1;
+    font-size: 1.5vw;
+}
+
+.main-image-text-container {
+    background-color: white;
+    display: flex;
+    margin-bottom: 3vw;
+    border-radius: 3vw;
+}
+
+.image-text-container {
+    flex: 1;
+    font-family: Prompt;
+    font-style: normal;
+    font-weight: normal;
+    align-items: center;
+    padding-right: 15vw;
+}
+
+.text-container {
+    margin: auto;
+}
+
+.text-1 {
+    font-size: 3.5vw;
+    color: black;
+    line-height: 3.3vw;
+    font-family: Josefin-Sans-Bold;
+    font-weight: bold;
+}
+
+.text-2 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.9vw;
+    font-size: 1.7vw;
+    color: #838383;
+}
+
+.image-container {
+    align-self: flex-end;
+    flex: 1;
+}
+
+.menu-items-container {
+    background-color: #FFFFFF;
+    flex: 4;
+}
+
+.headline {
+    text-align: center;
+    font-size: 2.5vw;
+    font-weight: 1000;
+}
+
+.boxes {
+    flex: 0 0 30%;
+    flex-direction: column;
+    display: flex;
+    margin-right: 3%;
+    margin-bottom: 2vw;
+    border-radius: 0.8vw;
+}
+
+.boxes-image-container {
+    width: 100%;
+}
+
+.the-img-house {
+    width: 100%;
+}
+
+.boxes-image-description {
+    padding: 1vw;
+}
+
+.main-content-body {
+    padding-left: 2%;
+    display: flex;
+    padding: 0 2vw;
+}
+
+.boxes {
+    flex: 0 0 31%;
+    flex-direction: column;
+    display: flex;
+    margin-bottom: 2vw;
+    border-color: black;
+    border-radius: 1vw;
+    box-shadow: 0.05vw 0.05vw 0.05vw 0.05vw;
+    padding: 0.1vw;
+}
+
+.description-container {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.Topic-text {
+    font-size: 2.2vw;
+    line-height: 5vw;
+    font-weight: bold;
+}
+
+.Details-text {
+    font-size: 1.2vw;
+}
+
+.more-text {
+    font-size: 1.1vw;
+    font-weight: bold;
+    line-height: 3.5vw;
+}
+
+.the-login-buttons {
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.sign-up-button {
+    background-color: #4756DF;
+}
+
+.learn-more-button {
+    background-color: white;
+    color: #838383;
+}
+
+.normal-button {
+    flex: 0 0 40%;
+    padding: 1vw 0vw;
+    border-radius: 0.7vw;
+    font-size: 1.5vw;
+}
